@@ -6,7 +6,7 @@
 
 ### Personal Analysis
 
-I am personally happy with where I am in my life at the moment. I am happy with my family, and I am happy with my work. Work has consistently kept up the challenges. In order to keep myself current, I have been able to push myself to learn more and tackle new problems that I previously did not know how to solve. Expanding knowledge of front end development and development tools has been a weekly goal where I try to consume a few articles and learn something new.
+Personally, I am very satisfied with where my life stands at this moment. I am happy with my family, and I am happy with my work. Work has consistently challenged me and has not felt stale or stangnant. I am focused and driven when tasks need to be completed both on the job and at home. In order to keep myself current, I have been able to push myself to learn more and tackle new problems that I previously did not know how to solve. Expanding knowledge of front end development and development tools has been a weekly goal where I try to consume a few articles and learn something new.
 
 ### Long term goals (5 - 10 years)
 
